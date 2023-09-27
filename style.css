@@ -1,0 +1,37 @@
+tr, th,td {
+    border: 1px solid black;
+
+}
+.header{
+    background-color: #c68611;
+    color: white;
+}
+.content, .service1, .service2{
+    background-color: #7a7a7a;
+    color: white;
+}
+.footer{
+    background-color: #0f4266;
+    color: white;
+}
+p{
+    font-weight: bold;
+    font-size: 25px;
+}
+.service1 p{
+    margin: 5px;
+}
+.sv1,.sv2,.sv3 {
+    text-align: center;
+}
+.sv1{
+    margin-top: 80px;
+}
+table{
+    border-collapse: separate;
+    border-spacing: 10px ;
+}
+td{
+    padding-bottom: 10px;
+    margin-bottom: 100px;
+}
